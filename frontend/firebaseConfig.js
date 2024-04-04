@@ -13,14 +13,7 @@ import {get} from "react-native/Libraries/TurboModule/TurboModuleRegistry";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBOI-XRMv4PLu18efTTrTGV0o1E4dTkjwU",
-  authDomain: "team-alex-app-cf42d.firebaseapp.com",
-  projectId: "team-alex-app-cf42d",
-  storageBucket: "team-alex-app-cf42d.appspot.com",
-  messagingSenderId: "938646970070",
-  appId: "1:938646970070:web:961b8c64c0bf33e8943377",
-  measurementId: "G-RHGTVMK8Z7",
-  databaseUrl: "https://team-alex-app-cf42d-default-rtdb.firebaseio.com/"
+
 };
 
 // Initialize Firebase
